@@ -1,0 +1,165 @@
+@font-face {
+    font-family: "vimal";
+    src: url(SourceSansPro-Light.ttf);
+}
+@media all and (max-width:576px){
+    #btn1{
+        visibility: visible; 
+    }
+    #exe{
+        display: none;
+    }
+    #asd{
+        display: none;
+    }
+  
+    #ss{
+        display: none;
+    }
+    #header{
+        height: 55rem;
+    }
+    #page1{
+        display: none;
+    }
+    #page3{
+        display: none;
+    }
+    /* #size{
+        font-size: 40px;
+        font-family: "vimal";
+        
+    } */
+ 
+}
+
+@media all and (max-width:768px){
+    #btn1{
+        visibility: visible;
+    }
+    #exe{
+        display: none;
+    }
+    #asd{
+        display: none;
+    }
+    #ss{
+        display: none;
+    }
+    #page1{
+        display: none;
+        
+    }
+    #page3{
+        display: none;
+        
+    } 
+    /* #size{
+        font-size: 40px;
+        font-family: "vimal";
+        
+    }  */
+       
+  
+}
+@media all and (min-width:768px){
+    #page6{
+        display: none;
+        
+    }
+    #page7{
+        display: none;
+    }
+}
+@media all and (max-width:992px){
+    #btn1{
+        visibility: visible; 
+    }
+    #exe{
+        display: none;
+    }
+    #asd{
+        display: none;
+    }
+    #ss{
+        display: none;
+    }
+    #page2{
+        display: none;
+    }
+    #page4{
+        display: none;
+    }
+     
+  
+   
+    
+    
+    
+    /* #size{
+        font-size: 40px;
+        font-family: "vimal";
+        
+    } */
+
+}
+@media all and (min-width:992px){
+    #btn1{
+        visibility: hidden;
+    }
+    #asd{
+        visibility: visible;
+    }
+    #ss{
+       visibility: visible;
+    }
+
+    #eng1{
+       display: none;
+    }
+    #btn2{
+        display: none;
+    }
+    #header{
+        height: 35rem;
+    }
+    #page2{
+        display: none;
+    }
+    #page4{
+       display: none;
+    }
+    #margin1{
+        margin-top: 200px;
+     }
+     #page1{
+        margin-top: 200px;
+        
+     }
+     #margin2{
+        margin-top: 200px;
+        
+     }
+     #page3{
+        margin-top: 200px;
+        
+     }
+     #margin3{
+        margin-top: 200px;
+        
+     }
+     #fs{
+        font-family: "vimal";
+        font-size: 70px;
+        word-spacing: 4px;
+        line-height: 75px;
+    }
+   
+   
+}
+.font{
+    font-family: "vimal";
+    font-size: 5.5rem;
+
+
+}
